@@ -12,7 +12,7 @@
   { "id": 11, "description": "Anti corno", "completed": false },
   { "id": 12, "description": "Anti corno", "completed": false },
   { "id": 13, "description": "Clear DMs (CL)", "completed": false },
-  { "id": 14, "description": "Polimento das telas", "completed": false }
+  { "id": 14, "description": "Polimento das telas", "completed": false },
   { "id": 15, "description": "Back-End", "completed": false }
 
 ]
