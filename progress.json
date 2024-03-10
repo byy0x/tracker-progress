@@ -10,9 +10,8 @@
   { "id": 9, "description": "Ranking page", "completed": false },
   { "id": 10, "description": "Staff page", "completed": false },
   { "id": 11, "description": "Anti corno", "completed": false },
-  { "id": 12, "description": "Anti corno", "completed": false },
-  { "id": 13, "description": "Clear DMs (CL)", "completed": false },
-  { "id": 14, "description": "Polimento das telas", "completed": false },
-  { "id": 15, "description": "Back-End", "completed": false }
+  { "id": 12, "description": "Clear DMs (CL)", "completed": false },
+  { "id": 13, "description": "Polimento das telas", "completed": false },
+  { "id": 14, "description": "Back-End", "completed": false }
 
 ]
