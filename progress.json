@@ -11,8 +11,8 @@
   { "id": 10, "description": "Staff page", "completed": true },
   { "id": 11, "description": "Anti corno", "completed": true },
   { "id": 12, "description": "Clear DMs (CL)", "completed": true },
-  { "id": 13, "description": "Polimento das telas", "completed": false },
+  { "id": 13, "description": "Polimento das telas", "completed": true },
   { "id": 14, "description": "Back-End", "completed": false },
-  { "id": 15, "description": "Tela buscar", "completed": false }
+  { "id": 15, "description": "Tela buscar", "completed": true }
 
 ]
